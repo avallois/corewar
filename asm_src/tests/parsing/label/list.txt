@@ -1,0 +1,9 @@
+OK:
+	-Multi-label for a instruction
+	-Spaces, tabs, endl around labels
+	-Only numbers
+
+KO:
+	-Unautorised char (char != LABEL_CHARS)
+	-Label doesn't end with LABEL_CHAR
+

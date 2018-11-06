@@ -1,0 +1,6 @@
+*.o
+*.sw*
+libft.a
+testf
+sandbox
+*.dSYM
